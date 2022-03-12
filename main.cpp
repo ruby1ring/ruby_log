@@ -3,11 +3,10 @@
 //
 
 #include "iostream"
+#include "./source/log.h"
 
-int main(){
-    std::cout<<"hello world"<<std::endl;
-
-
-
-
+int main()
+{
+    std::cout << "hello world" << std::endl;
+    return 0;
 }
